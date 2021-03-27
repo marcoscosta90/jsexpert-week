@@ -1,6 +1,17 @@
+#!C:\Program Files\nodejs
+
 /*
+
+hacker-chat \
+    --username marcoscosta90 \
+    --room sala01
+
+./index.js \
+    --username marcoscosta90 \
+    --room sala01 \    
+
 node index.js \
-    --username marcoscosta \
+    --username marcoscosta90 \
     --room sala01 \
     --hostUri localhost
 */
